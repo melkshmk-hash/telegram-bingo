@@ -3,7 +3,7 @@ import random
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 # Replace with the HTTP API token you got from @BotFather
-BOT_TOKEN = '8997186272:AAEFZNVNiX__y5DIKru88rdPyA9eOOQ2d-w'
+BOT_TOKEN = '8997186272:ERROR: Could not open requirements file: [Errno 2] No such file or directory: 'requirements.txt'-w'
 bot = telebot.TeleBot(BOT_TOKEN)
 
 # In-memory database to store player profiles and their active cards
