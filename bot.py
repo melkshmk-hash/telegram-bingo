@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    BOT_TOKEN = '8705349467:AAEcCFlo8UQjnzhYDSwl7jKFyIUbPoZKA08'
+    <BOT_TOKEN ="8705349467:AAEcCFlo8UQjnzhYDSwl7jKFyIUbPoZKA08">
     <title>ቴሌግራም ቢንጎ</title>
     <script src="https://telegram.org/js/telegram-web-app.js"></script>
     <style>
